@@ -13,8 +13,8 @@ Implemented Blockchain Technology Using Python. Used SHA256 Algorithm From **has
 &emsp; c. New Hash Value (Verified New Hash Value).
 
 ## KEY POINTS :-
-1. By Changing The " difficulty " Variable's Value, Anyone Can Change **The Mining Difficulty** According To Their Requirements. <br>
-2. By Changing The " MAX_NONCE " Variable's Value, Anyone Can Change **The Maximum Computational Power** According To Their System Specifications.
+1. By Changing The **" difficulty "** Variable's Value, Anyone Can Change **The Mining Difficulty** According To Their Requirements. <br>
+2. By Changing The **" MAX_NONCE "** Variable's Value, Anyone Can Change **The Maximum Computation Power** According To Their System Specifications.
 
 ## NOTE :-
 1. Zeroes Before The Hash Value To Be Verified Determines The Mining Difficulty.
